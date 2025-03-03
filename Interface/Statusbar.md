@@ -13,31 +13,31 @@ Choose how battery level is displayed:
 </tr>
 <tr>
     <td><b>OFF</b><br>Hide battery indicator</td>
-    <td><img src="../img/Battery-Off.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b518f7a3-f239-4d1e-9614-a06fdca40809" width="320"/></td>
 </tr>
 <tr>
     <td><b>Bar</b><br>Simple battery bar</td>
-    <td><img src="../img/Battery-Bar.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/07606f40-2e5f-46c3-816e-e2d433272bf5" width="320"/></td>
 </tr>
 <tr>
     <td><b>%</b><sup>*</sup><br>Percentage only</td>
-    <td><img src="../img/Battery-Percent.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8ecbe9bc-246b-40b7-8b64-bc17ad95f944" width="320"/></td>
 </tr>
 <tr>
     <td><b>Inv. %</b><br>Inverted percentage</td>
-    <td><img src="../img/Battery-InvPercent.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/763dbec2-5e6c-434a-913a-3967cc45e8c1" width="320"/></td>
 </tr>
 <tr>
     <td><b>Retro 3</b><br>3-segment retro style</td>
-    <td><img src="../img/Battery-Retro3.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/628519f9-f003-4634-a0ce-31ad047aca28" width="320"/></td>
 </tr>
 <tr>
     <td><b>Retro 5</b><br>5-segment retro style</td>
-    <td><img src="../img/Battery-Retro5.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfbabcde-5454-4ed0-881c-0fa72b3b0bf8" width="320"/></td>
 </tr>
 <tr>
     <td><b>Bar %</b><br>Bar with percentage</td>
-    <td><img src="../img/Battery-BarPercent.png" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/365745ed-92a8-423a-8059-09a2a3c46bda" width="320"/></td>
 </tr>
 </table>
 
