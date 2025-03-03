@@ -13,21 +13,6 @@ Asset Packs are a feature exclusive to Momentum Firmware that allows you to load
     - Custom Icons (stored in `Icons/`)
     - Custom Fonts (stored in `Fonts/`, optional)
 
-## [Size Warning](Graphics#Size-Warning)
-
-When selecting an Asset Pack, you *may* see a size warning. This indicates that:
-
-- The pack contains Fonts & Icons that remain loaded in memory
-- Large packs may impact available RAM
-- The warning provides detailed size information for fonts and icons to help you make an informed decision
-
-<div style="display: flex; align-items: center;">
-    <img src="../img/Warning.png" width="320" style="margin-right: 20px;"/>
-    <img src="../img/Files.png" width="320"/>
-</div>
-
-<sup>Example size warning for the [Pirates Asset Pack](https://github.com/Next-Flip/Momentum-Firmware/wiki/Community-Asset-Packs#pirates)</sup>
-
 ## [Anim Speed](Graphics#Anim-Speed)
 
 Controls the playback speed of all animations:
