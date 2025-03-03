@@ -1,4 +1,4 @@
-![Momentum Logo](img/Banner-Skin-YellowBG.png)
+![Banner](https://github.com/user-attachments/assets/c9957bc7-3cc8-45aa-b0a7-33d654f2c284)
 
 # Momentum Firmware Wiki
 
