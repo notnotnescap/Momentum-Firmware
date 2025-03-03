@@ -44,7 +44,6 @@
 - [Interface](Interface)
   - [Graphics](Graphics)
     - [Asset Pack](Graphics#Asset-Pack)
-    - [Size Warning](Graphics#Size-Warning)
     - [Animation Settings](Graphics#Animation-Settings)
   - [Mainmenu](Mainmenu)
     - [Menu Style](Mainmenu#Menu-Style)
