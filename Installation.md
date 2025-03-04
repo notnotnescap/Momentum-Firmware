@@ -1,17 +1,19 @@
 This page covers the different methods for installing Momentum firmware on your Flipper Zero.
 
 > [!WARNING]
-> - Make sure [qFlipper](https://github.com/qFlipper/qFlipper/releases) is closed when using [Web Updater](https://momentum-fw.dev/update/) or [Flipper Lab/App](https://lab.flipper.net/), and vice versa. Only use one installation method at a time.
+> Make sure [qFlipper](https://github.com/qFlipper/qFlipper/releases) is closed when using [Web Updater](https://momentum-fw.dev/update/) or [Flipper Lab/App](https://lab.flipper.net/), and vice versa. Only use one installation method at a time.
 
 ### Back up your data
 
 No, you will not lose any data installing Momentum or any other firmware on your Flipper Zero. Your data is stored *externally* on the `SD card`, not on the Flipper Zero's internal storage. However, it's always a good idea to back up your data before installing a new firmware, just in case.
 
-1. Open qFlipper
-2. Click on the `Advanced Controls` tab (middle one)
-3. Click the `Backup` button, then save the `.tgz` file somewhere
+> [!CAUTION]
+> The `Backup` and `Restore` options in [qFlipper](https://github.com/qFlipper/qFlipper/releases)'s `Advanced Controls` tab DO NOT backup your saved files! They only backup the settings contained in the (hidden) `.int` folder. See below for viable alternatives to save what you actually care about.
 
-<sup>This `.tgz` file is what you'll use to restore your data using the `Restore` button, if you ever need to.</sup>
+There are multiple ways you could backup your important files from Flipper's SD card:
+1. Open [qFlipper](https://github.com/qFlipper/qFlipper/releases), switch to the `File manager` tab, go through folders manually and save files/folders you want to keep to your computer.
+2. Take out the SD card from Flipper, plug it into your computer, copy some/all files from the SD to the computer.
+3. Any other method of "imaging" the FatFs partition from the SD card (Google it!).
 
 ## Installation Methods
 
