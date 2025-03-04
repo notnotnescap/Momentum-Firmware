@@ -32,9 +32,8 @@ Display current directory path in the statusbar:
 
 ## [Favorite Timeout](File-Browser#Favorite-Timeout)
 
-Set how long the favorite items menu stays open:
+Set how long the favorite items will be emulated / sent for when clicked:
 
-- `OFF`<sup>*</sup>: Disable timeout
+- `OFF`<sup>*</sup>: Disable timeout, emulate forever
 - Configurable timeout in seconds
-- Default: 14 seconds
-- Affects the quick-access favorites menu
+- Only affects the quick-access Favorites menu in Archive (press DOWN from Desktop)
