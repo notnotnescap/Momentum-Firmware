@@ -32,18 +32,18 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 
 ||[&nearr;&nbsp;OFW](https://github.com/flipperdevices/flipperzero-firmware)|[&nearr;&nbsp;RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)|[&nearr;&nbsp;Unleashed](https://github.com/DarkFlippers/unleashed-firmware)|Momentum|
 |-|:-:|:-:|:-:|:-:|
-|Stable Updates|&#10007;|&#10007;|&#10003;|&#10003;|
-|(Some) Rolling Code Support|&#10007;|&#10003;|&#10003;|&#10003;|
-|FindMy Flipper|&#10007;|&#10003;|&#10003;__*__|&#10003;|
+|Stable Updates|&#10003;|&#10007;|&#10003;|&#10003;|
+|(Some) Rolling Code Support|&#10033;<sup>1</sup>|&#10003;|&#10003;|&#10003;|
+|FindMy Flipper|&#10007;|&#10003;|&#10003;|&#10003;|
 |BLE Spam|&#10007;|&#10003;|&#10003;|&#10003;|
-|Bad Keyboard<br>(BT & USB)|&#10007;|&#10003;__*__|&#10003;__*__|&#10003;|
+|Bad Keyboard<br>(Extra Options)|&#10007;|&#10003;<sup>2</sup>|&#10003;<sup>2</sup>|&#10003;|
 |Subdriving<br>(Saving coordinates for subghz)|&#10007;|&#10003;|&#10007;|&#10003;|
 |Full Customization<br>(Layouts, Menus, Keybinds, etc.)|&#10007;|&#10007;|&#10007;|&#10003;|
-|Management App<br>(For easy configuration)|&#10007;|&#10003;__*__|&#10007;|&#10003;|
+|Management App<br>(For easy configuration)|&#10007;|&#10033;<sup>3</sup>|&#10007;|&#10003;|
 |Enhanced RGB Backlight modes<br>(Full customization & Rainbow mode)|&#10007;|&#10003;|&#10007;|&#10003;|
 |Spoofing<br>(Name, Mac, Serial)|&#10007;|&#10003;|&#10003;|&#10003;|
 |Improved Security<br>(Lock on Boot, reset on false pins, etc.)|&#10007;|&#10007;|&#10007;|&#10003;|
-|Asset Packs|&#10007;|&#10003;__*__|&#10007;|&#10003;|
+|Asset Packs|&#10007;|&#10033;<sup>4</sup>|&#10007;|&#10003;|
 |VGM Color Options|&#10007;|&#10003;|&#10007;|&#10003;|
 |Enhanced Level System|&#10007;|&#10003;|&#10007;|&#10003;|
 |File Search|&#10007;|&#10007;|&#10007;|&#10003;|
@@ -51,4 +51,10 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 |Improved Error Messages<br>(Showing source path)|&#10007;|&#10007;|&#10007;|&#10003;|
 |External Apps<br>(As of 03.2024)|&#10007;|305|216 (with [e] pack)|160|
 
-<sup>__*__ Partial functionality or through external apps</sup>
+<sup>1: Official Firmware can pair to some rolling code receivers (less than Custom Firmwares), and it does not allow sending rolling code signals captured in the wild (Custom Firmwares listed above allow it at your own risk of de-synchronizing the original remote)</sup>
+
+<sup>2: These Firmwares include Bad KB as an additional external app, found in Apps > Tools > Bad KB, instead of replacing the default Bad USB app with Bad KB</sup>
+
+<sup>3: Partional functionality, less options in the "CFW Settings" management app</sup>
+
+<sup>4: Different format (manifest_xyz.txt) that only supports animations, not icons and fonts</sup>
