@@ -79,7 +79,6 @@
     - [Shell Color](Spoofing#Shell-Color)
   - [VGM Options](VGM)
   - [System](System)
-    - [Charge Cap](System#Charge-Cap)
     - [Momentum Intro](System#Momentum-Intro)
 
 </details>
