@@ -20,7 +20,7 @@ Choose how battery level is displayed:
     <td><img src="https://github.com/user-attachments/assets/07606f40-2e5f-46c3-816e-e2d433272bf5" width="320"/></td>
 </tr>
 <tr>
-    <td><b>%</b><sup>*</sup><br>Percentage only</td>
+    <td><b>%</b><br>Percentage only</td>
     <td><img src="https://github.com/user-attachments/assets/8ecbe9bc-246b-40b7-8b64-bc17ad95f944" width="320"/></td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ Choose how battery level is displayed:
     <td><img src="https://github.com/user-attachments/assets/dfbabcde-5454-4ed0-881c-0fa72b3b0bf8" width="320"/></td>
 </tr>
 <tr>
-    <td><b>Bar %</b><br>Bar with percentage</td>
+    <td><b>Bar %</b><sup>*</sup><br>Bar with percentage</td>
     <td><img src="https://github.com/user-attachments/assets/365745ed-92a8-423a-8059-09a2a3c46bda" width="320"/></td>
 </tr>
 </table>
@@ -45,8 +45,8 @@ Choose how battery level is displayed:
 
 Toggle time display in statusbar:
 
-- `OFF`: Hide clock
-- `ON`<sup>*</sup>: Show clock
+- `OFF`<sup>*</sup>: Hide clock
+- `ON`: Show clock
 
 ## [Show Icons](Statusbar#Show-Icons)
 
@@ -64,7 +64,7 @@ Toggle border around statusbar elements:
 
 ## [Bar Background](Statusbar#Bar-Background)
 
-Toggle statusbar background:
+Toggle statusbar "ribbon cable" design background:
 
-- `OFF`: Transparent background
-- `ON`<sup>*</sup>: Solid background
+- `OFF`<sup>*</sup>: Hide background
+- `ON`: Show background
