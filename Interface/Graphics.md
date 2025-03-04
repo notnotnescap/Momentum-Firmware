@@ -8,10 +8,10 @@ Asset Packs are a feature exclusive to Momentum Firmware that allows you to load
 
 - Navigate to `Asset Pack` to select from any [pre-installed](https://github.com/momentum-firmware/asset-packs) or [community-made](https://momentum-fw.dev/asset-packs) packs.
 - Packs are loaded externally from the [SD Card](../File-Browser#SD-Card) at `/ext/asset_packs/*`
-- Each pack can contain:
+- Each pack can contain (all optional):
     - Custom Animations (stored in `Anims/`)
     - Custom Icons (stored in `Icons/`)
-    - Custom Fonts (stored in `Fonts/`, optional)
+    - Custom Fonts (stored in `Fonts/`)
 
 ## [Anim Speed](Graphics#Anim-Speed)
 
@@ -20,11 +20,11 @@ Controls the playback speed of all animations:
 - Default: 100%
 - Range: 25% to 300%
 - Adjustable in 25% increments
-- Affects all animations system-wide
+- Affects all desktop animations
 
 ## [Cycle Anims](Graphics#Cycle-Anims)
 
-Determines how often animations change:
+Determines how often desktop animations change:
 
 - `OFF`: Disable animation cycling
 - `Meta.txt`<sup>*</sup>: Use pack's defined timing (if available)
@@ -35,9 +35,9 @@ Determines how often animations change:
 
 ## [Unlock Anims](Graphics#Unlock-Anims)
 
-Toggle special animations when unlocking the device:
+Disable dolphin level and mood restrictions for desktop animations:
 
-- `OFF`<sup>*</sup>: Disable unlock animations
-- `ON`: Enable unlock animations (if pack includes them)
+- `OFF`<sup>*</sup>: Only show eligible animations based on current dolphin level and mood
+- `ON`: Show all animations available in current asset pack regardless of level/mood
 
-> This page is only a brief overview of the individual Graphics settings. For more detailed information about installing or creating your own Asset Packs, see our [Asset Pack Page](Assets/Asset-Packs).
+> This page is only a brief overview of the individual Graphics settings. For more detailed information about installing or creating your own Asset Packs, see our [Asset Pack Page](../Asset-Packs).
