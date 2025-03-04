@@ -1,8 +1,8 @@
-Here is a list of all the community-created Asset Packs that have been developed for Momentum or are compatible with it, as well as several other locations where you can find them:
+We keep a curated set of community-created Asset Packs that have been developed for Momentum or are compatible with it. It is not a complete list, as there are more floating around, for example on our Discord server. Some useful links:
 
-- [momentum-fw.dev/asset-packs](https://momentum-fw.dev/asset-packs/): Asset Packs hosted by Momentum, made by the community.
-- [Next-Flip/Asset-Packs](https://github.com/Next-Flip/Asset-Packs): Github repository holding all the Asset Packs. [Pull Requests](https://github.com/Next-Flip/Asset-Packs/pulls) can be made.
-- [Asset Packs Discord Channel](https://discord.gg/afTC8Eenr4): Find, share or request new Asset Packs.
+- [momentum-fw.dev/asset-packs](https://momentum-fw.dev/asset-packs/): Asset Packs hosted by Momentum, made by the community. On Chrome-based browsers you can Install them directly to your connected Flipper.
+- [Next-Flip/Asset-Packs](https://github.com/Next-Flip/Asset-Packs): GitHub repository holding all the Asset Packs we host. [Pull Requests](https://github.com/Next-Flip/Asset-Packs/pulls) can be made to add your own! The website above and the list below are both based on Asset Packs stored here.
+- [Asset Packs Discord Channel](https://discord.gg/afTC8Eenr4): Find, share or request new Asset Packs. This is separate from the list of Asset Packs we host on GitHub and our website, so you might find some hidden gems here!
 
 <br>
 
