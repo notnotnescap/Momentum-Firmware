@@ -6,8 +6,8 @@ The Lockscreen settings allow you to configure security and display options for 
 
 Controls whether your Flipper locks automatically when powered on:
 
-- `OFF`<sup>*</sup>: Boot directly to Desktop
-- `ON`: Require PIN on startup
+- `OFF`: Boot directly to Desktop even if PIN code is configured
+- `ON`<sup>*</sup>: Require PIN on startup if PIN code is configured
 
 ## [Format on Bad PINs](Lockscreen#Format-on-Bad-PINs)
 
@@ -53,7 +53,7 @@ Configure info on the lockscreen:
 
 Customize lockscreen appearance:
 
-- `Show Statusbar`: Background to the status bar elements
+- `Show Statusbar`: Toggle visibility of entire statusbar
 - `Unlock Prompt`: Show the `Press UP to unlock!` prompt
 - `Transparent`: Allow asset pack animation visibility through lockscreen
 
