@@ -35,6 +35,9 @@
 <summary><b>Frequently Asked Questions</b></summary>
 
 - [FAQ Home](Frequently-Asked-Questions)
+- [Will I lose data installing a new version?](Frequently-Asked-Questions#Will-I-lose-data-installing-a-new-version)
+- [Mainline release or dev build?](Frequently-Asked-Questions#Mainline-release-or-dev-build)
+- [Flipper says "Update failed"?](Frequently-Asked-Questions#Flipper-says-Update-failed)
 
 </details>
 
