@@ -4,7 +4,7 @@ The Dolphin settings allow you to customize the stats and behavior of your Flipp
 
 These stats update as you interact with your Flipper Zero, but you can also adjust them manually here. The stats and mood of your dolphin are displayed in the Passport:
 
-<img src="https://github.com/user-attachments/assets/9e11a4e1-b814-47ad-b501-dde9288d8999" width="200"/>
+<img src="https://github.com/user-attachments/assets/05e68995-8f54-44d1-a509-b153e0b7919a" width="200"/>
 
 <sup>`RIGHT` on the Desktop</sup>
 
