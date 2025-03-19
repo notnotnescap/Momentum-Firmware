@@ -25,7 +25,7 @@ Toggle left handed mode. Flips the entire UI 180 degrees clockwise.
 
 ### [RGB Backlight](Screen#RGB-Backlight)
 
-<img src="https://github.com/user-attachments/assets/02523c07-f088-4528-a2d3-9107504b2c68" width="200" align="right"/>
+<img src="https://github.com/user-attachments/assets/805bfd6b-34ba-4d24-b769-e6c24207b4e5" width="200" align="right"/>
 
 Toggle the RGB backlight on your Flipper Zero. This setting is initially locked to prevent damage to the Flipper, and a warning message will be shown when attempting to enable it:
 
