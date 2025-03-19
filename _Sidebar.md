@@ -75,13 +75,14 @@
     - [Display Mode](Screen#Display-Mode)
     - [RGB Settings](Screen#RGB-Settings)
   - [Dolphin](Dolphin)
-    - [Stats](Dolphin#Stats)
-    - [Behavior](Dolphin#Behavior)
+    - [Dolphin Level](Dolphin#Dolphin-Level)
+    - [Dolphin XP](Dolphin#Dolphin-XP)
+    - [Dolphin Angry](Dolphin#Dolphin-Angry)
+    - [Butthurt Timer](Dolphin#Butthurt-Timer)
   - [Spoofing](Spoofing)
     - [Flipper Name](Spoofing#Flipper-Name)
     - [Shell Color](Spoofing#Shell-Color)
   - [VGM Options](VGM)
-  - [System](System)
-    - [Momentum Intro](System#Momentum-Intro)
+  - [Momentum Intro](Momentum-Intro)
 
 </details>
