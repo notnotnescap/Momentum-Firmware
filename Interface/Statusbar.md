@@ -13,31 +13,31 @@ Choose how battery level is displayed:
 </tr>
 <tr>
     <td><b>OFF</b><br>Hide battery indicator</td>
-    <td><img src="https://github.com/user-attachments/assets/b518f7a3-f239-4d1e-9614-a06fdca40809" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d3fdd7cc-1773-4a8a-b14a-e3b8a50edbe9" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bar</b><br>Simple battery bar</td>
-    <td><img src="https://github.com/user-attachments/assets/07606f40-2e5f-46c3-816e-e2d433272bf5" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/01b27c75-c130-453b-9908-b7e4a013ad4d" height="43"/></td>
 </tr>
 <tr>
     <td><b>%</b><br>Percentage only</td>
-    <td><img src="https://github.com/user-attachments/assets/8ecbe9bc-246b-40b7-8b64-bc17ad95f944" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b1e444a1-347f-492c-a9a3-67d8d06021c8" height="43"/></td>
 </tr>
 <tr>
     <td><b>Inv. %</b><br>Inverted percentage</td>
-    <td><img src="https://github.com/user-attachments/assets/763dbec2-5e6c-434a-913a-3967cc45e8c1" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/719228f9-8837-4bab-bb10-c6975355ea3f" height="43"/></td>
 </tr>
 <tr>
     <td><b>Retro 3</b><br>3-segment retro style</td>
-    <td><img src="https://github.com/user-attachments/assets/628519f9-f003-4634-a0ce-31ad047aca28" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/22c983dd-7cce-45ee-9892-e909063d94de" height="43"/></td>
 </tr>
 <tr>
     <td><b>Retro 5</b><br>5-segment retro style</td>
-    <td><img src="https://github.com/user-attachments/assets/dfbabcde-5454-4ed0-881c-0fa72b3b0bf8" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9308cad3-5d1b-4640-8ef0-c3af69f0e11a" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bar %</b><sup>*</sup><br>Bar with percentage</td>
-    <td><img src="https://github.com/user-attachments/assets/365745ed-92a8-423a-8059-09a2a3c46bda" height="43"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d0fc4e96-58d1-4464-94bd-cbd3e775b85c" height="43"/></td>
 </tr>
 </table>
 
