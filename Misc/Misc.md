@@ -30,7 +30,7 @@ Manage the stats and behavior of your digital pet:
 
 Change identification and appearance settings:
 
-- [`Flipper Name`](Spoofing#Flipper-Name): Customize your device's displayed name (leave empty for real name)
+- [`Flipper Name`](Spoofing#Flipper-Name): Customize your device's displayed name (leave empty for real name), also affects BLE name and MAC, USB name and serial number
 - [`Shell Color`](Spoofing#Shell-Color): Change the displayed color of your Flipper
 
 ## [VGM Options](VGM)
