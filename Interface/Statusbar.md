@@ -13,31 +13,31 @@ Choose how battery level is displayed:
 </tr>
 <tr>
     <td><b>OFF</b><br>Hide battery indicator</td>
-    <td><img src="https://github.com/user-attachments/assets/b518f7a3-f239-4d1e-9614-a06fdca40809" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b518f7a3-f239-4d1e-9614-a06fdca40809" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bar</b><br>Simple battery bar</td>
-    <td><img src="https://github.com/user-attachments/assets/07606f40-2e5f-46c3-816e-e2d433272bf5" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/07606f40-2e5f-46c3-816e-e2d433272bf5" height="43"/></td>
 </tr>
 <tr>
     <td><b>%</b><br>Percentage only</td>
-    <td><img src="https://github.com/user-attachments/assets/8ecbe9bc-246b-40b7-8b64-bc17ad95f944" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8ecbe9bc-246b-40b7-8b64-bc17ad95f944" height="43"/></td>
 </tr>
 <tr>
     <td><b>Inv. %</b><br>Inverted percentage</td>
-    <td><img src="https://github.com/user-attachments/assets/763dbec2-5e6c-434a-913a-3967cc45e8c1" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/763dbec2-5e6c-434a-913a-3967cc45e8c1" height="43"/></td>
 </tr>
 <tr>
     <td><b>Retro 3</b><br>3-segment retro style</td>
-    <td><img src="https://github.com/user-attachments/assets/628519f9-f003-4634-a0ce-31ad047aca28" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/628519f9-f003-4634-a0ce-31ad047aca28" height="43"/></td>
 </tr>
 <tr>
     <td><b>Retro 5</b><br>5-segment retro style</td>
-    <td><img src="https://github.com/user-attachments/assets/dfbabcde-5454-4ed0-881c-0fa72b3b0bf8" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfbabcde-5454-4ed0-881c-0fa72b3b0bf8" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bar %</b><sup>*</sup><br>Bar with percentage</td>
-    <td><img src="https://github.com/user-attachments/assets/365745ed-92a8-423a-8059-09a2a3c46bda" width="320"/></td>
+    <td><img src="https://github.com/user-attachments/assets/365745ed-92a8-423a-8059-09a2a3c46bda" height="43"/></td>
 </tr>
 </table>
 
@@ -62,39 +62,39 @@ Toggle visibility of status icons:
 </tr>
 <tr>
     <td><b>SD Card Mounted</b><br>SD card is properly mounted</td>
-    <td><img src="https://github.com/user-attachments/assets/8c839357-0c3d-42db-958a-369dff271cd6" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/63cbd6f9-311b-47d8-98be-5635c59ff3cc" height="43"/></td>
 </tr>
 <tr>
     <td><b>SD Card Fail</b><br>Not mounted · NoFS · Not accessible · Internal Error </td>
-    <td><img src="https://github.com/user-attachments/assets/a904893c-c3a8-43dd-895e-17ca4f1d4b45" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bfa0d5d7-2509-4b07-8582-d55b32bf47c8" height="43"/></td>
 </tr>
 <tr>
     <td><b>Rpc Active (USB)</b><br>Remote Procedure Protocol connection active</td>
-    <td><img src="https://github.com/user-attachments/assets/9b7d7435-454c-4530-a5fa-d17771321a84" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/29b34e79-b951-4721-9b9e-9765ccd0d12a" height="43"/></td>
 </tr>
 <tr>
     <td><b>Muted</b><br>Stealth mode enabled (sound off)</td>
-    <td><img src="https://github.com/user-attachments/assets/bee5d41d-0b65-4d3b-a690-47d2fd5f43e5" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b9444b75-99f4-4721-a3f9-63037413e870" height="43"/></td>
 </tr>
 <tr>
     <td><b>Hidden Window</b><br>A notification requires attention</td>
-    <td><img src="https://github.com/user-attachments/assets/d6888fb9-2354-4545-ba38-2f77e7fa07a4" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/85153ccf-cdda-45a7-ae5c-4c6f3d3acb8d" height="43"/></td>
 </tr>
 <tr>
     <td><b>EXP Module Connected</b><br>External module connected via UART</td>
-    <td><img src="https://github.com/user-attachments/assets/5b13b285-5911-4a0c-b741-e0213d0081cc" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3e5036fe-0122-4172-bfda-52f5fdad6381" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bluetooth Idle</b><br>Bluetooth in advertising state</td>
-    <td><img src="https://github.com/user-attachments/assets/d24b5abb-27f7-49d6-bce0-1c92f457124a" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3952090a-bc7f-491c-800a-31a4c93194f8" height="43"/></td>
 </tr>
 <tr>
     <td><b>Bluetooth Connected</b><br>Successful BT connection to device</td>
-    <td><img src="https://github.com/user-attachments/assets/9996b90a-8706-4d9b-8e33-5dd9a75eb36b" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2f28f74b-ad79-462a-9377-83ce0396574f" height="43"/></td>
 </tr>
 <tr>
     <td><b>BLE Beacon</b><br>Bluetooth Low Energy beacon active</td>
-    <td><img src="https://github.com/user-attachments/assets/21dfc0f3-8b9f-4cdf-a7cd-9e68506cb0b3" style="height: 72px; width: auto;"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ece52169-e235-4d30-8f4e-0cb3a909b4b9" height="43"/></td>
 </tr>
 </table>
 
