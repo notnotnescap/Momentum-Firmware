@@ -34,11 +34,13 @@ Set up security and lock screen behavior:
 
 Customize the top status bar:
 
-- [`Display Elements`](Statusbar#Display-Elements)
-  - [`Battery Icon`](Statusbar#Battery-Icon): Choose battery display style
-  - [`Show Clock`](Statusbar#Show-Clock): Toggle time display
-  - [`Show Icons`](Statusbar#Show-Icons): Toggle status icons
-- [`Bar Style`](Statusbar#Bar-Style): Configure borders and background
+- [`Battery Icon`](Statusbar#Battery-Icon): Choose battery display style
+  - [`Battery Styles`](Statusbar#battery-styles): Available battery styles
+- [`Show Clock`](Statusbar#Show-Clock): Toggle time display
+- [`Show Icons`](Statusbar#Show-Icons): Toggle status icons
+  - [`Status Icons`](Statusbar#status-icons): Table of all status icons and their meanings
+- [`Bar Borders`](Statusbar#Bar-Borders): Toggle border around statusbar elements
+- [`Bar Background`](Statusbar#Bar-Background): Toggle statusbar "ribbon cable" design background
 
 ## [File Browser](File-Browser)
 
