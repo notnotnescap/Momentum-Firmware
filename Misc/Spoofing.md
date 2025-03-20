@@ -4,7 +4,15 @@ The Spoofing settings allow you to customize your Flipper Zero's display name an
 
 ## [Flipper Name](Spoofing#Flipper-Name)
 
-How your Flipper Zero is identified in the Flipper mobile app, [Flipper Lab](https://lab.flipper.net/), web serial and on the device itself. (e.g. Name: `"MNTM"`, Serial: `"/dev/cu.usbmodemflip_MNTM1"`)
+How your Flipper Zero is identified, such as in the Flipper mobile app, [Flipper Lab](https://lab.flipper.net/), web serial and on the device itself. (e.g. Name: `"MNTM"`, Linux Serial: `"/dev/serial/by-id/usb-Flipper_Devices_Inc._MNTM_flip_MNTM-if00"`, macOS Serial: `"/dev/cu.usbmodemflip_MNTM1"`)
+
+Currently it affects:
+- Bluetooth device name
+- Bluetooth MAC address (3 bytes of Flipper ID + 3 bytes of ASCII from custom name)
+- USB device name
+- Serial number (8 bytes of ASCII from custom name)
+
+Because of this, when changing Flipper Name you will typically need to unpair and reconnect in the Flipper mobile app.
 
 `8` characters max.
 
@@ -18,3 +26,5 @@ The displayed shell color of your Flipper Zero in the Flipper app and [Flipper L
 - `Black`: Black shell
 - `White`: White shell
 - `Transparent`: Limited Transparent shell
+
+The shell color is also advertised publicly over Bluetooth, any nearby device can detect it without connecting (for example [Wall Of Flippers](https://github.com/K3YOMI/Wall-of-Flippers)).
