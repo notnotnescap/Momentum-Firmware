@@ -8,7 +8,7 @@ Configure display settings for your Flipper's screen:
     - [`Dark Mode`](Screen#Dark-Mode): Toggle dark mode `ON` or `OFF`
     - [`Left Handed`](Screen#Left-Handed): Enable left-handed mode
 - [`RGB Settings`](Screen#RGB-Settings): Configure color options for RGB-capable screens (if applicable)
-    - [`RGB Backlight`](Screen#RGB-Backlight): RGB backlight color
+    - [`RGB Backlight`](Screen#RGB-Backlight): Whether RGB backlight is installed
     - [`LCD LED 1`](Screen#LCD-LED-1): Configure the first LCD LED color
     - [`LCD LED 2`](Screen#LCD-LED-2): Configure the second LCD LED color
     - [`LCD LED 3`](Screen#LCD-LED-3): Configure the third LCD LED color
@@ -40,6 +40,6 @@ Configure settings for the Video Game Module:
 - [`Foreground`](VGM#Foreground): Set the foreground color for the display (Default: Black)
 - [`Background`](VGM#Background): Set the background color for the display (Default: Orange)
 
-## [Momentum Intro](Momentum-Intro)
+## [Momentum Intro](Misc#Momentum-Intro)
 
 Play the Momentum Firmware introduction screen that appears on initial setup.
