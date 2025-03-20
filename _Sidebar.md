@@ -83,6 +83,6 @@
     - [Flipper Name](Spoofing#Flipper-Name)
     - [Shell Color](Spoofing#Shell-Color)
   - [VGM Options](VGM)
-  - [Momentum Intro](Momentum-Intro)
+  - [Momentum Intro](Misc#Momentum-Intro)
 
 </details>
