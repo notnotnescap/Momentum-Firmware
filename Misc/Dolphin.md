@@ -10,7 +10,9 @@ These stats update as you interact with your Flipper Zero, but you can also adju
 
 ## [Dolphin Level](Dolphin#Dolphin-Level)
 
-Level of your Dolphin. (Each level requires 100 XP)
+Level of your Dolphin (Each level requires an increasing amount of XP).
+
+Dolphin level can affect which animations play from your current [Asset Pack](Graphics#Asset-Pack) unless [Unlock Anims](Graphics#Unlock-Anims) is enabled.
 
 - Min: `1`<sup>*</sup>
 - Max: `30`
@@ -20,11 +22,13 @@ Level of your Dolphin. (Each level requires 100 XP)
 Total XP of your Dolphin.
 
 - Min: `0`<sup>*</sup>
-- Max: `3,000`
+- Max: `9,999`
 
 ## [Dolphin Angry](Dolphin#Dolphin-Angry)
 
-Anger/"butthurt" level of your Dolphin. Anger level affects which animations play from your current [Asset Pack](Graphics#Asset-Pack) and the mood of your dolphin.
+Anger/"butthurt" level of your Dolphin, which determines the mood of your dolphin.
+
+Anger level can affect which animations play from your current [Asset Pack](Graphics#Asset-Pack) unless [Unlock Anims](Graphics#Unlock-Anims) is enabled.
 
 - Min: `0`<sup>*</sup>
 - Max: `14`
