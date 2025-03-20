@@ -1,6 +1,16 @@
-The VGM settings change the BG and FG colors used by the Official Flipper Zero [Video Game Module](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero). These settings can be found by pressing `UP` on the Desktop and navigating to `MNTM > Misc > VGM`.
+The VGM settings change the BG and FG colors used by the Official Flipper Zero [Video Game Module](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero), after the dedicated RGB Firmware bundled with Momentum is installed to it. These settings can be found by pressing `UP` on the Desktop and navigating to `MNTM > Misc > VGM`.
 
 <sup>Default Option: `*`</sup>
+
+## [Install RGB Firmware](VGM#Install-RGB-Firmware)
+
+The RGB Firmware is bundled with Momentum's version of the Video Game Module Tool app. Installing it to VGM is required for the Foreground and Background colors to apply.
+
+You can install it with the following steps:
+
+- Navigate to `Apps > GPIO > VGM > [VGM] Video Game Module Tool`
+- Connect the VGM to the Flipper GPIO pins
+- Click `Install RGB Firmware`
 
 ## [Foreground & Background](VGM#Foreground-Background)
 
