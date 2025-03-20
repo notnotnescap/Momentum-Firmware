@@ -20,7 +20,7 @@ Background: `Orange` (Default)
 
 <sup>Both use the same list of colors.</sup>
 
-### [Available Colors](VGM#Available-colors)
+### [Available Color Presets](VGM#Available-Color-Presets)
 
 <table>
 <tr>
