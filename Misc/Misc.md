@@ -35,8 +35,9 @@ Change identification and appearance settings:
 
 ## [VGM Options](VGM)
 
-Configure settings for the Video Game Module (requires installing RGB firmware on VGM):
+Configure settings for the Video Game Module (requires installing RGB Firmware on VGM):
 
+- [`Install RGB Firmware`](VGM#Install-RGB-Firmware): Instructions to install the RGB Firmware to VGM
 - [`Foreground`](VGM#Foreground): Set the foreground color for the display (Default: Black)
 - [`Background`](VGM#Background): Set the background color for the display (Default: Orange)
 
