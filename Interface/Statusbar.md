@@ -6,7 +6,7 @@ The Statusbar settings allow you to customize the appearance of your Flipper Zer
 
 Choose how battery level is displayed:
 
-<table>
+<table id="battery-styles">
 <tr>
     <th>Setting · Desc</th>
     <th>Preview</th>
@@ -53,7 +53,50 @@ Toggle time display in statusbar:
 Toggle visibility of status icons:
 
 - `OFF`: Hide all status icons
-- `ON`<sup>*</sup>: Show status icons (Bluetooth, SD card, etc.)
+- `ON`<sup>*</sup>: Show status icons
+
+<table id="status-icons">
+<tr>
+    <th>Icon · Desc</th>
+    <th>Preview</th>
+</tr>
+<tr>
+    <td><b>SD Card Mounted</b><br>SD card is properly mounted</td>
+    <td><img src="https://github.com/user-attachments/assets/8c839357-0c3d-42db-958a-369dff271cd6" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>SD Card Fail</b><br>Not mounted · NoFS · Not accessible · Internal Error </td>
+    <td><img src="https://github.com/user-attachments/assets/a904893c-c3a8-43dd-895e-17ca4f1d4b45" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>Rpc Active (USB)</b><br>Remote Procedure Protocol connection active</td>
+    <td><img src="https://github.com/user-attachments/assets/9b7d7435-454c-4530-a5fa-d17771321a84" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>Muted</b><br>Stealth mode enabled (sound off)</td>
+    <td><img src="https://github.com/user-attachments/assets/bee5d41d-0b65-4d3b-a690-47d2fd5f43e5" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>Hidden Window</b><br>A notification requires attention</td>
+    <td><img src="https://github.com/user-attachments/assets/d6888fb9-2354-4545-ba38-2f77e7fa07a4" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>EXP Module Connected</b><br>External module connected via UART</td>
+    <td><img src="https://github.com/user-attachments/assets/5b13b285-5911-4a0c-b741-e0213d0081cc" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>Bluetooth Idle</b><br>Bluetooth in advertising state</td>
+    <td><img src="https://github.com/user-attachments/assets/d24b5abb-27f7-49d6-bce0-1c92f457124a" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>Bluetooth Connected</b><br>Successful BT connection to device</td>
+    <td><img src="https://github.com/user-attachments/assets/9996b90a-8706-4d9b-8e33-5dd9a75eb36b" style="height: 72px; width: auto;"/></td>
+</tr>
+<tr>
+    <td><b>BLE Beacon</b><br>Bluetooth Low Energy beacon active</td>
+    <td><img src="https://github.com/user-attachments/assets/21dfc0f3-8b9f-4cdf-a7cd-9e68506cb0b3" style="height: 72px; width: auto;"/></td>
+</tr>
+</table>
 
 ## [Bar Borders](Statusbar#Bar-Borders)
 
