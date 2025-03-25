@@ -140,5 +140,5 @@ All the .bm and .bmx struggles are dealt with by the packer system, which is in 
 
 #### Building with Firmware
 
-- Follow the steps above, but use `assets/dolphin/custom` as your source packs folder.
+- Follow the steps above, but use `assets/packs` as your source packs folder.
 - Packing is integrated with fbt, so just run `./fbt flash_usb_full` or `./fbt updater_package` to compile the firmware, pack the packs and update your Flipper.
