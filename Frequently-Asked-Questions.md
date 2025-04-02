@@ -7,6 +7,7 @@
 
 - [Will I lose data installing a new version?](#will-i-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](#mainline-release-or-dev-build)
+- [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
 - [Flipper says "Update failed"?](#flipper-says-Update-failed)
 - [Stuck in "infinite loop" after updating](#stuck-in-infinite-loop-after-updating)
 
@@ -21,6 +22,33 @@ Mainline releases normally follow the update schedule of the upstream firmware (
 If you are unsure, or want to update less often, the [Mainline release](https://github.com/Next-Flip/Momentum-Firmware/releases) will work just fine.
 
 Release pings for both can be found in these Discord channels: [`#mainline-releases`](https://discord.com/channels/1211622338198765599/1213549820271132802) · [`#dev-builds`](https://discord.com/channels/1211622338198765599/1213020009153167390).
+
+## [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
+
+Check what the exact error message is:
+﻿
+
+- If it mentions "missing region file", you should [reinstall Momentum]() using an **"online" method**, such as:
+  - Web Updater
+  - Flipper Lab/App
+  - qFlipper (specifically using "Install from file")
+
+  The Zipped Archive method is an "offline" method, and does not install the region file.
+﻿
+
+- If it mentions "outside region range", this frequency is restricted in your country. \
+  If you are absolutely sure you are permitted to use it, then you can bypass this error with `Momentum > Protocols > Sub-GHz Bypass Region Lock`.
+﻿
+
+- If it mentions "outside default range", this frequency is not officially supported by Flipper. \
+  You can force-enable it **<u>at your own risk of potential hardware damage</u>** with `Momentum > Protocols > Sub-GHz Extend Freq Bands`.
+﻿
+
+- If it mentions "outside supported range", this frequency is not supported at all by Flipper. \
+  You will not be able to use it.
+﻿
+
+You can find more details in the [documentation page](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/SubGHzBypass%26Extend.md).
 
 ## [Flipper says "Update failed"?](#flipper-says-Update-failed)
 
