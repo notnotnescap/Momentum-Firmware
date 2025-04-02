@@ -37,7 +37,7 @@
 - [FAQ Home](Frequently-Asked-Questions)
 - [Will I lose data installing a new version?](Frequently-Asked-Questions#Will-I-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](Frequently-Asked-Questions#Mainline-release-or-dev-build)
-- [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
+- [Sub-GHz says "Transmission is blocked"?](Frequently-Asked-Questions#sub-ghz-says-transmission-is-blocked)
 - [Flipper says "Update failed"?](Frequently-Asked-Questions#Flipper-says-Update-failed)
 - [Stuck in "infinite loop" after updating](Frequently-Asked-Questions#Stuck-in-infinite-loop-after-updating)
 
