@@ -5,11 +5,27 @@
 
 ## Table of Contents
 
+- [What can I do with my Flipper? Ideas?](#what-can-i-do-with-my-flipper-ideas)
 - [Will I lose data installing a new version?](#will-i-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](#mainline-release-or-dev-build)
 - [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
 - [Flipper says "Update failed"?](#flipper-says-Update-failed)
 - [Stuck in "infinite loop" after updating](#stuck-in-infinite-loop-after-updating)
+- [I get bypass region error in SubGHz?](#i-get-bypass-region-error-in-subghz)
+
+## [What can I do with my Flipper? Ideas?](#what-can-i-do-with-my-flipper-ideas)
+
+The following are a few creators active all over the Flipper community, OFW and CFW. These content creators provide a wealth of ideas, tutorials, and inspiration for what you can do with your Flipper Zero. They cover everything from basic usage to advanced projects and hacks. And we appreciate their contributions!
+
+1. [Talking Sasquachv](https://www.youtube.com/@TalkingSasquach): He has made Flipper zero beginer tutorials on how to use and set up the Flipper and also on how to create your own animations for the Flipper (aka Asset Packs).
+
+2. [Derek Jamison](https://www.youtube.com/@MrDerekJamison): He is making videos on what you can do with the Flipper and how to program it to do cool things, such as running apps and experimenting with scripts.
+
+3. [Sn0ren](https://www.youtube.com/@sn0ren): He has made a few videos about the Flipper Zero but is mainly interested in Radio signals. The content may give you an idea on what you can do with different signals available to you.
+
+4. [JBlanked](https://www.youtube.com/channel/UC3-HckimiXzcTanzCvWGU4A): He has made videos about Flipper boards and is also the author of several high profile apps for the Flipper.
+
+This should give you enough ideas to get you started with the Flipper and give you inspiration to make and even contribute to the community. You can also take a look around our [Discord](https://discord.gg/momentum) as there are always people sharing personal projects and getting help.
 
 ## [Will I lose data installing a new version?](#will-i-lose-data-installing-a-new-version)
 
@@ -65,7 +81,7 @@ Most installation errors stem from unsupported, low quality or incorrectly forma
 
 1. On the Desktop click `UP`
 2. Open `Settings > Storage`
-3. Click `Format SD card` <sup>1</sup>
+3. Click `Format SD card` <sup><a href="#format-warning">1</a></sup>
 
 ## [Stuck in "infinite loop" after updating](#stuck-in-infinite-loop-after-updating)
 
@@ -73,9 +89,9 @@ If your Flipper is stuck in an infinite loop after updating, it may be due to a 
 
 1. Remove the SD card from your Flipper Zero and let it boot
 2. Reinsert the SD card
-3. Navigate to and run `Settings > Storage > Format SD card` <sup>1</sup>
+3. Navigate to and run `Settings > Storage > Format SD card` <sup><a href="#format-warning">1</a></sup>
 4. Reinstall Momentum from any of our [installation methods](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation)
 
 ---
 
-<sup>1. *WARNING*: This will delete all the data on the SD card and you'll need to install again. Refer to the [Backup methods](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#back-up-your-data) before proceeding.</sup>
+<span id="format-warning"><sup>1. **WARNING**: Formatting the SD card deletes all the data on it and you'll need to install again. Refer to the [Backup methods](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#back-up-your-data) before proceeding.</sup></span>

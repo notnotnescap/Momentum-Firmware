@@ -35,6 +35,7 @@
 <summary><b>Frequently Asked Questions (FAQ)</b></summary>
 
 - [FAQ Home](Frequently-Asked-Questions)
+- [What can I do with my Flipper? Ideas?](Frequently-Asked-Questions#What-can-I-do-with-my-Flipper-Ideas)
 - [Will I lose data installing a new version?](Frequently-Asked-Questions#Will-I-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](Frequently-Asked-Questions#Mainline-release-or-dev-build)
 - [Sub-GHz says "Transmission is blocked"?](Frequently-Asked-Questions#sub-ghz-says-transmission-is-blocked)
