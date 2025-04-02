@@ -41,30 +41,21 @@ Release pings for both can be found in these Discord channels: [`#mainline-relea
 
 ## [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
 
-Check what the exact error message is:
-﻿
+This error has multiple variations, and you should look closely at which error message exactly you are getting:
 
-- If it mentions "missing region file", you should [reinstall Momentum]() using an **"online" method**, such as:
-  - Web Updater
-  - Flipper Lab/App
-  - qFlipper (specifically using "Install from file")
+1. `"Missing region file"` :
+    Reinstall Momentum though one of the "online" methods, either [Web Updater](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#web-updater-browser), [Flipper Lab/App](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#flipper-labapp-browsermobile) or [qFlipper](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#qflipper-package-tgz) (specifcally 'install from file'). *The zipped archive method (.tgz/.zip) is "offline", and does not install the region file needed.*
 
-  The Zipped Archive method is an "offline" method, and does not install the region file.
-﻿
+2. `"Outside region range"` :
+    Getting this message means the frequency being used is __restricted in your country.__ If you are absolutely sure you are permitted to use it, then you can bypass this error with `MNTM > Protocols > Sub-GHz Bypass Region Lock`.
 
-- If it mentions "outside region range", this frequency is restricted in your country. \
-  If you are absolutely sure you are permitted to use it, then you can bypass this error with `Momentum > Protocols > Sub-GHz Bypass Region Lock`.
-﻿
+3. `"Outside default range"` :
+    This means the frequency is not officially supported by Flipper. You can force-enable it **<u>at your own risk of potential hardware damage</u>** with `MNTM > Protocols > Sub-GHz Extend Freq Bands`.
 
-- If it mentions "outside default range", this frequency is not officially supported by Flipper. \
-  You can force-enable it **<u>at your own risk of potential hardware damage</u>** with `Momentum > Protocols > Sub-GHz Extend Freq Bands`.
-﻿
+4. `"Outside supported range"` :
+    This error indicates that the frequency is not supported at all by the Flipper Zero hardware itself. In this case, you cannot bypass it, as it is a hardware limitation.
 
-- If it mentions "outside supported range", this frequency is not supported at all by Flipper. \
-  You will not be able to use it.
-﻿
-
-You can find more details in the [documentation page](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/SubGHzBypass%26Extend.md).
+More info for all these possible errors and what to do can be found in the [SubGHzBypass&Extend documentaton](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/SubGHzBypass%26Extend.md).
 
 ## [Flipper says "Update failed"?](#flipper-says-Update-failed)
 
