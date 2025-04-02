@@ -20,7 +20,7 @@ Mainline releases normally follow the update schedule of the upstream firmware (
 
 If you are unsure, or want to update less often, the [Mainline release](https://github.com/Next-Flip/Momentum-Firmware/releases) will work just fine.
 
-Release pings for both can be found in these Discord channels: [`#mainline`](https://discord.com/channels/1211622338198765599/1213549820271132802) · [`#dev-builds`](https://discord.com/channels/1211622338198765599/1213020009153167390).
+Release pings for both can be found in these Discord channels: [`#mainline-releases`](https://discord.com/channels/1211622338198765599/1213549820271132802) · [`#dev-builds`](https://discord.com/channels/1211622338198765599/1213020009153167390).
 
 ## [Flipper says "Update failed"?](#flipper-says-Update-failed)
 
