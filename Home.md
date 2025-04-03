@@ -49,7 +49,7 @@ The goal of this firmware is to constantly push the bounds of what is possible w
 |File Search|&#10007;|&#10007;|&#10007;|&#10003;|
 |Disk Image Management|&#10007;|&#10003;|&#10007;|&#10003;|
 |Improved Error Messages<br>(Showing source path)|&#10007;|&#10007;|&#10007;|&#10003;|
-|External Apps<br>(As of 03.2024)|&#10007;|305|216 (with [e] pack)|160|
+|External Apps<br>(As of 04.2025)|&#10007;|421|226 (with [e] pack)|183|
 
 <sup>1: Official Firmware can pair to some rolling code receivers (less than Custom Firmwares), and it does not allow sending rolling code signals captured in the wild (Custom Firmwares listed above allow it at your own risk of de-synchronizing the original remote)</sup>
 
