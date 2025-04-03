@@ -8,10 +8,9 @@
 - [What can I do with my Flipper? Ideas?](#what-can-i-do-with-my-flipper-ideas)
 - [Will I lose data installing a new version?](#will-i-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](#mainline-release-or-dev-build)
-- [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
 - [Flipper says "Update failed"?](#flipper-says-Update-failed)
 - [Stuck in "infinite loop" after updating](#stuck-in-infinite-loop-after-updating)
-- [I get bypass region error in SubGHz?](#i-get-bypass-region-error-in-subghz)
+- [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
 
 ## [What can I do with my Flipper? Ideas?](#what-can-i-do-with-my-flipper-ideas)
 
@@ -39,24 +38,6 @@ If you are unsure, or want to update less often, the [Mainline release](https://
 
 Release pings for both can be found in these Discord channels: [`#mainline-releases`](https://discord.com/channels/1211622338198765599/1213549820271132802) · [`#dev-builds`](https://discord.com/channels/1211622338198765599/1213020009153167390).
 
-## [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
-
-This error has multiple variations, and you should look closely at which error message exactly you are getting:
-
-1. `"Missing region file"` :
-    Reinstall Momentum though one of the "online" methods, either [Web Updater](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#web-updater-browser), [Flipper Lab/App](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#flipper-labapp-browsermobile) or [qFlipper](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#qflipper-package-tgz) (specifcally 'install from file'). *The zipped archive method (.tgz/.zip) is "offline", and does not install the region file needed.*
-
-2. `"Outside region range"` :
-    Getting this message means the frequency being used is __restricted in your country.__ If you are absolutely sure you are permitted to use it, then you can bypass this error with `MNTM > Protocols > Sub-GHz Bypass Region Lock`.
-
-3. `"Outside default range"` :
-    This means the frequency is not officially supported by Flipper. You can force-enable it **<u>at your own risk of potential hardware damage</u>** with `MNTM > Protocols > Sub-GHz Extend Freq Bands`.
-
-4. `"Outside supported range"` :
-    This error indicates that the frequency is not supported at all by the Flipper Zero hardware itself. In this case, you cannot bypass it, as it is a hardware limitation.
-
-More info for all these possible errors and what to do can be found in the [SubGHzBypass&Extend documentaton](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/SubGHzBypass%26Extend.md).
-
 ## [Flipper says "Update failed"?](#flipper-says-Update-failed)
 
 Most installation errors stem from unsupported, low quality or incorrectly formatted SD cards. If you are formatting on your pc rather than the Flipper, make sure to use either `exFAT` or `FAT32`.
@@ -82,6 +63,24 @@ If your Flipper is stuck in an infinite loop after updating, it may be due to a 
 2. Reinsert the SD card
 3. Navigate to and run `Settings > Storage > Format SD card` <sup><a href="#format-warning">1</a></sup>
 4. Reinstall Momentum from any of our [installation methods](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation)
+
+## [Sub-GHz says "Transmission is blocked"?](#sub-ghz-says-transmission-is-blocked)
+
+This error has multiple variations, and you should look closely at which error message exactly you are getting:
+
+1. `"Missing region file"` :
+    Reinstall Momentum though one of the "online" methods, either [Web Updater](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#web-updater-browser), [Flipper Lab/App](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#flipper-labapp-browsermobile) or [qFlipper](https://github.com/Next-Flip/Momentum-Firmware/wiki/Installation#qflipper-package-tgz) (specifcally 'install from file'). *The zipped archive method (.tgz/.zip) is "offline", and does not install the region file needed.*
+
+2. `"Outside region range"` :
+    Getting this message means the frequency being used is __restricted in your country.__ If you are absolutely sure you are permitted to use it, then you can bypass this error with `MNTM > Protocols > Sub-GHz Bypass Region Lock`.
+
+3. `"Outside default range"` :
+    This means the frequency is not officially supported by Flipper. You can force-enable it **<u>at your own risk of potential hardware damage</u>** with `MNTM > Protocols > Sub-GHz Extend Freq Bands`.
+
+4. `"Outside supported range"` :
+    This error indicates that the frequency is not supported at all by the Flipper Zero hardware itself. In this case, you cannot bypass it, as it is a hardware limitation.
+
+More info for all these possible errors and what to do can be found in the [SubGHzBypass&Extend documentaton](https://github.com/Next-Flip/Momentum-Firmware/blob/dev/documentation/SubGHzBypass%26Extend.md).
 
 ---
 
