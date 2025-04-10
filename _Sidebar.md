@@ -14,7 +14,7 @@
 <details open>
 <summary><b>Installation</b></summary>
 
-- [Web Updater (Browser)](Installation#Web-Updater-Browser)
+- [Web Updater (Browser)](Installation)
 - [Flipper Lab/App (Browser/Mobile)](Installation#Flipper-LabApp-BrowserMobile)
 - [qFlipper Package (.tgz)](Installation#qFlipper-Package-tgz)
 - [Zipped Archive (.zip)](Installation#Zipped-Archive-zip)
@@ -24,7 +24,7 @@
 <details open>
 <summary><b>Asset Packs</b></summary>
 
-- [What are Asset Packs](Asset-Packs#What-are-Asset-Packs)
+- [What are Asset Packs](Asset-Packs)
 - [How to install Asset Packs](Asset-Packs#How-to-install-Asset-Packs)
 - [Create your own Asset Packs](Asset-Packs#Create-your-own-Asset-Packs)
 - [Community Asset Packs (List)](Community-Asset-Packs)
@@ -34,8 +34,7 @@
 <details open>
 <summary><b>Frequently Asked Questions (FAQ)</b></summary>
 
-- [FAQ Home](Frequently-Asked-Questions)
-- [What can I do with my Flipper? Ideas?](Frequently-Asked-Questions#What-can-I-do-with-my-Flipper-Ideas)
+- [What can I do with my Flipper? Ideas?](Frequently-Asked-Questions)
 - [Will I lose data installing a new version?](Frequently-Asked-Questions#Will-I-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](Frequently-Asked-Questions#Mainline-release-or-dev-build)
 - [Flipper says "Update failed"?](Frequently-Asked-Questions#Flipper-says-Update-failed)
