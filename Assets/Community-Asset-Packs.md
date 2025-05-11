@@ -15,6 +15,16 @@ We keep a curated set of community-created Asset Packs that have been developed 
 </tr>
 
 <tr>
+    <td><b><a href="https://github.com/Next-Flip/Asset-Packs/tree/dev/citizen-sleeper">Citizen Sleeper</a></b><br>Set of anims inspired by the Citizen Sleeper games franchise<br>
+        <sub><i>
+Anims: <b>6</b>
+        </i></sub>
+    </td>
+    <td><img src="https://raw.githubusercontent.com/Next-Flip/Asset-Packs/refs/heads/dev/citizen-sleeper/preview/1.gif" width="200"/></td>
+    <td><a href="https://github.com/Kuronons">Kuronons</a><br><sub>2025-05-10</sub></td>
+</tr>
+
+<tr>
     <td><b><a href="https://github.com/Next-Flip/Asset-Packs/tree/dev/monika-ddlc">Monika from DDLC</a></b><br>Just put Monika from Doki Doki Literature Club on your Flipper<br>
         <sub><i>
 Anims: <b>1</b> &nbsp;&nbsp;
@@ -488,5 +498,4 @@ Fonts: <span title="Keyboard, Primary, Secondary">&nbsp;<b>3</b></span>
     <td><img src="https://raw.githubusercontent.com/Next-Flip/Asset-Packs/refs/heads/dev/pirates/preview/1_jack_3.gif" width="200"/></td>
     <td><a href="https://github.com/cyberartemio">cyberartemio</a><br><sub>2024-08-24</sub></td>
 </tr>
-
 </table>
