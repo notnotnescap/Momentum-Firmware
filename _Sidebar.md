@@ -38,7 +38,8 @@
 - [Will I lose data installing a new version?](Frequently-Asked-Questions#Will-I-lose-data-installing-a-new-version)
 - [Mainline release or dev build?](Frequently-Asked-Questions#Mainline-release-or-dev-build)
 - [Flipper says "Update failed"?](Frequently-Asked-Questions#Flipper-says-Update-failed)
-- [Stuck in "infinite loop" after updating](Frequently-Asked-Questions#Stuck-in-infinite-loop-after-updating)
+- [Stuck in "infinite loop" after updating?](Frequently-Asked-Questions#Stuck-in-infinite-loop-after-updating)
+- [The Flipper mobile app does not connect?](Frequently-Asked-Questions#the-flipper-mobile-app-does-not-connect)
 - [Sub-GHz says "Transmission is blocked"?](Frequently-Asked-Questions#sub-ghz-says-transmission-is-blocked)
 
 </details>
