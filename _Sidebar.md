@@ -1,5 +1,5 @@
 <div align="left">
-<h2><img align="left" height="25" src="https://avatars.githubusercontent.com/u/161668008?s=200&v=4" alt="Icon">Momentum Firmware</h2>
+<h2><img align="left" height="25" src="https://github.com/user-attachments/assets/2e903b80-584c-49d2-8f0d-2dba61c89b00" alt="Icon">Momentum Firmware</h2>
 </div>
 
 <details open>
